@@ -1,1 +1,1 @@
-# Introduction-to-Artificial-Intelligense-Lab
+# Introduction-to-Artificial-Intelligence-Lab
